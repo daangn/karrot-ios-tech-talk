@@ -1,5 +1,5 @@
 # karrot-ios-tech-talk
-[Experiment] Karrot ios tech talk
+Karrot ios tech talk
 
 Tea time with ios developers every morning at club house.
 <br>
